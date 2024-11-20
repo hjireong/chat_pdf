@@ -3,7 +3,7 @@ import openai
 import PyPDF2
 
 # OpenAI API 키 설정
-openai.api_key = "your_openai_api_key"
+openai.api_key = "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"
 
 # 벡터 저장소 초기화
 vector_store = None
